@@ -10,11 +10,13 @@ DSA prep for placement
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Simulation
 |  |
