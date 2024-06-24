@@ -71,3 +71,7 @@ DSA prep for placement
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhra1-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+# Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0328-odd-even-linked-list) |
