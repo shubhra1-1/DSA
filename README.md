@@ -6,6 +6,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
@@ -19,7 +20,20 @@ DSA prep for placement
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
+# Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+# Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
