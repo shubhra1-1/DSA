@@ -81,6 +81,7 @@ DSA prep for placement
 # Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shubhra1-1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
@@ -92,5 +93,6 @@ DSA prep for placement
 # Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shubhra1-1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
