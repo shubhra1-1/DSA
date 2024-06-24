@@ -17,6 +17,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -76,6 +77,7 @@ DSA prep for placement
 # Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0328-odd-even-linked-list) |
 # String
 |  |
