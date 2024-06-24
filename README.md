@@ -56,3 +56,15 @@ DSA prep for placement
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
+# Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
