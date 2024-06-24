@@ -42,3 +42,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shubhra1-1/DSA/tree/master/0009-palindrome-number) |
