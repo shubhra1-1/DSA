@@ -6,11 +6,13 @@ DSA prep for placement
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Simulation
 |  |
@@ -32,6 +34,7 @@ DSA prep for placement
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 # Counting
 |  |
