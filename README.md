@@ -32,6 +32,7 @@ DSA prep for placement
 # Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 # Hash Table
 |  |
@@ -59,6 +60,7 @@ DSA prep for placement
 # Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/shubhra1-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
 # Design
@@ -75,3 +77,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0328-odd-even-linked-list) |
+# String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0032-longest-valid-parentheses) |
