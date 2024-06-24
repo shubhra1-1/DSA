@@ -19,6 +19,7 @@ DSA prep for placement
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Simulation
@@ -62,6 +63,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/shubhra1-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
 # Design
@@ -78,8 +80,13 @@ DSA prep for placement
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0328-odd-even-linked-list) |
 # String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0032-longest-valid-parentheses) |
+# Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
