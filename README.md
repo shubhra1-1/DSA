@@ -5,6 +5,7 @@ DSA prep for placement
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhra1-1/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ DSA prep for placement
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhra1-1/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 # Sorting
 |  |
