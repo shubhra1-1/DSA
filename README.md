@@ -11,6 +11,7 @@ DSA prep for placement
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
@@ -42,11 +43,13 @@ DSA prep for placement
 | ------- |
 | [0001-two-sum](https://github.com/shubhra1-1/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
 # Counting
 |  |
 | ------- |
