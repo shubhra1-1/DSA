@@ -14,6 +14,7 @@ DSA prep for placement
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhra1-1/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra1-1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
