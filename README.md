@@ -10,6 +10,7 @@ DSA prep for placement
 | [0031-next-permutation](https://github.com/shubhra1-1/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shubhra1-1/DSA/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhra1-1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhra1-1/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhra1-1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhra1-1/DSA/tree/master/0217-contains-duplicate) |
 # Sorting
@@ -102,3 +104,7 @@ DSA prep for placement
 | [0025-reverse-nodes-in-k-group](https://github.com/shubhra1-1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/shubhra1-1/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shubhra1-1/DSA/tree/master/0128-longest-consecutive-sequence) |
