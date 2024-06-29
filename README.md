@@ -113,6 +113,7 @@ DSA prep for placement
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -121,5 +122,10 @@ DSA prep for placement
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
