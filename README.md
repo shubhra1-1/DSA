@@ -129,9 +129,18 @@ DSA prep for placement
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shubhra1-1/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhra1-1/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhra1-1/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
