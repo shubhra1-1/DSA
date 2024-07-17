@@ -3,22 +3,25 @@ class Solution {
     ListNode slow = head;
     ListNode fast = head;
 
-    while (fast != null && fast.next != null) {
+    while (fast.next!= null && fast.next.next != null) {
       slow = slow.next;
       fast = fast.next.next;
     }
+    ListNode newHead= reverse(slow.next);
+    ListNode first=head;
+    ListNode sec= newHead;
 
-    if (fast != null)
-      slow = slow.next;
-    slow = reverse(slow);
+    while(sec!=null){
+        if(first.val!=sec.val){
+            reverse(newHead);
+            return false;
+        }
 
-    while (slow != null) {
-      if (slow.val != head.val)
-        return false;
-      slow = slow.next;
-      head = head.next;
+        first=first.next;
+        sec=sec.next;
+        
     }
-
+    reverse(newHead);
     return true;
   }
 
