@@ -142,6 +142,7 @@ DSA prep for placement
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhra1-1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +154,7 @@ DSA prep for placement
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhra1-1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
