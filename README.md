@@ -178,6 +178,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,4 +196,5 @@ DSA prep for placement
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra1-1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
