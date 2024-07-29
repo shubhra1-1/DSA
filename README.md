@@ -113,6 +113,7 @@ DSA prep for placement
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -163,6 +164,7 @@ DSA prep for placement
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhra1-1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shubhra1-1/DSA/tree/master/0141-linked-list-cycle) |
@@ -186,6 +188,7 @@ DSA prep for placement
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
