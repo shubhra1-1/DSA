@@ -126,6 +126,7 @@ DSA prep for placement
 | [0141-linked-list-cycle](https://github.com/shubhra1-1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhra1-1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhra1-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/shubhra1-1/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -203,6 +204,7 @@ DSA prep for placement
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhra1-1/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra1-1/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shubhra1-1/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
