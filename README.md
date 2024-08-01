@@ -187,6 +187,7 @@ DSA prep for placement
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +213,7 @@ DSA prep for placement
 | [0812-rotate-string](https://github.com/shubhra1-1/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
