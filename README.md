@@ -117,6 +117,7 @@ DSA prep for placement
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -254,4 +255,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
