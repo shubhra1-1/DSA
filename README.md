@@ -118,6 +118,7 @@ DSA prep for placement
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -130,6 +131,7 @@ DSA prep for placement
 | [0142-linked-list-cycle-ii](https://github.com/shubhra1-1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhra1-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/shubhra1-1/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -203,6 +205,7 @@ DSA prep for placement
 | ------- |
 | [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
@@ -245,6 +248,7 @@ DSA prep for placement
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
