@@ -122,6 +122,7 @@ DSA prep for placement
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -265,4 +266,8 @@ DSA prep for placement
 | ------- |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
