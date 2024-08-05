@@ -2,7 +2,7 @@ class MinStack {
     Stack < Long > st = new Stack < Long > ();
     Long mini;
 
-    /** initialize your data structure here. */
+    
     public MinStack() {
         mini = Long.MAX_VALUE;
     }
@@ -27,6 +27,7 @@ class MinStack {
 
         Long val = st.pop();
         if (val < mini) {
+            //bring the previous value back
             mini = 2 * mini - val;
         }
     }
