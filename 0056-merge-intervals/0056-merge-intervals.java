@@ -1,30 +1,21 @@
-import java.util.*;
-
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if (intervals.length == 0) {
-            return new int[0][0];
+        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
+
+        List<int[]> merged = new ArrayList<>();
+        int prev [] = intervals[0]; //cause first element se compare krna h
+        for(int i =0;i<intervals.length;i++){
+            int interval [] = intervals[i];
+            if(interval [0] <= prev[1]){
+                prev[1]= Math.max(prev[1], interval[1]);
+            }
+            else{
+                merged.add(prev);
+                prev= interval;
+            }
         }
+        merged.add(prev);
+        return merged.toArray(new int[merged.size()][]);
         
-        // Sort intervals by their start time
-        Arrays.sort(intervals, new Comparator<int[]>() {
-            public int compare(int[] a, int[] b) {
-                return Integer.compare(a[0], b[0]);
-            }
-        });
-
-        List<int[]> mergedIntervals = new ArrayList<>();
-
-        for (int i = 0; i < intervals.length; i++) {
-            // If the list of merged intervals is empty or the current interval does not overlap with the previous one
-            if (mergedIntervals.isEmpty() || intervals[i][0] > mergedIntervals.get(mergedIntervals.size() - 1)[1]) {
-                mergedIntervals.add(intervals[i]);
-            } else {
-                // Merge the current interval with the previous one
-                mergedIntervals.get(mergedIntervals.size() - 1)[1] = Math.max(mergedIntervals.get(mergedIntervals.size() - 1)[1], intervals[i][1]);
-            }
-        }
-
-        return mergedIntervals.toArray(new int[mergedIntervals.size()][]);
     }
 }
