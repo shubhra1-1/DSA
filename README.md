@@ -117,6 +117,7 @@ DSA prep for placement
 | [0035-search-insert-position](https://github.com/shubhra1-1/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/shubhra1-1/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -215,6 +216,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/shubhra1-1/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
