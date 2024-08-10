@@ -126,6 +126,7 @@ DSA prep for placement
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
@@ -316,6 +317,7 @@ DSA prep for placement
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhra1-1/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhra1-1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 ## Design
