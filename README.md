@@ -125,6 +125,7 @@ DSA prep for placement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
@@ -294,6 +295,7 @@ DSA prep for placement
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -323,6 +325,7 @@ DSA prep for placement
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhra1-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -342,4 +345,12 @@ DSA prep for placement
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
