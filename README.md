@@ -132,6 +132,7 @@ DSA prep for placement
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
@@ -319,6 +320,7 @@ DSA prep for placement
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhra1-1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 ## Design
 |  |
