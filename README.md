@@ -136,6 +136,7 @@ DSA prep for placement
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -153,6 +154,7 @@ DSA prep for placement
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shubhra1-1/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
