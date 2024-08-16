@@ -146,6 +146,7 @@ DSA prep for placement
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhra1-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shubhra1-1/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shubhra1-1/DSA/tree/master/0141-linked-list-cycle) |
@@ -265,6 +266,7 @@ DSA prep for placement
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhra1-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shubhra1-1/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shubhra1-1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shubhra1-1/DSA/tree/master/0014-longest-common-prefix) |
@@ -374,6 +376,7 @@ DSA prep for placement
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhra1-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
