@@ -393,4 +393,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shubhra1-1/DSA/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/shubhra1-1/DSA/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
