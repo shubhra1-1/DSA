@@ -139,6 +139,7 @@ DSA prep for placement
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shubhra1-1/DSA/tree/master/0907-koko-eating-bananas) |
+| [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhra1-1/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -185,6 +186,7 @@ DSA prep for placement
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -299,6 +301,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -342,6 +345,7 @@ DSA prep for placement
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -409,4 +413,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/shubhra1-1/DSA/tree/master/1258-article-views-i) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
