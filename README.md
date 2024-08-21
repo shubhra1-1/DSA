@@ -184,6 +184,7 @@ DSA prep for placement
 | [0013-roman-to-integer](https://github.com/shubhra1-1/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
@@ -192,6 +193,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Linked List
@@ -417,4 +419,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
