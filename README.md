@@ -186,6 +186,7 @@ DSA prep for placement
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -288,6 +289,7 @@ DSA prep for placement
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0564-find-the-closest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/shubhra1-1/DSA/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/shubhra1-1/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
