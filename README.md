@@ -172,6 +172,7 @@ DSA prep for placement
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Matrix
 |  |
 | ------- |
@@ -306,6 +307,7 @@ DSA prep for placement
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -317,6 +319,7 @@ DSA prep for placement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Trie
 |  |
 | ------- |
