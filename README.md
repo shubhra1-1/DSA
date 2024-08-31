@@ -202,6 +202,7 @@ DSA prep for placement
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2470-removing-stars-from-a-string](https://github.com/shubhra1-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +260,7 @@ DSA prep for placement
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/shubhra1-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,6 +309,7 @@ DSA prep for placement
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2470-removing-stars-from-a-string](https://github.com/shubhra1-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Prefix Sum
 |  |
