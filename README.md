@@ -450,6 +450,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/shubhra1-1/DSA/tree/master/0476-number-complement) |
+| [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Graph
 |  |
 | ------- |
