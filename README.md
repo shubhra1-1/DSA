@@ -205,6 +205,7 @@ DSA prep for placement
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/shubhra1-1/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhra1-1/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -311,6 +312,7 @@ DSA prep for placement
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shubhra1-1/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/shubhra1-1/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
