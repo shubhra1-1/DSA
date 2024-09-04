@@ -192,6 +192,7 @@ DSA prep for placement
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
+| [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
@@ -234,6 +235,7 @@ DSA prep for placement
 | [0021-merge-two-sorted-lists](https://github.com/shubhra1-1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -455,6 +457,7 @@ DSA prep for placement
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shubhra1-1/DSA/tree/master/0476-number-complement) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Graph
