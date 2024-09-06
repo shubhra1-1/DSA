@@ -245,6 +245,7 @@ DSA prep for placement
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhra1-1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhra1-1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shubhra1-1/DSA/tree/master/0061-rotate-list) |
@@ -301,6 +302,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhra1-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shubhra1-1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shubhra1-1/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shubhra1-1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhra1-1/DSA/tree/master/0013-roman-to-integer) |
@@ -373,6 +375,7 @@ DSA prep for placement
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhra1-1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
