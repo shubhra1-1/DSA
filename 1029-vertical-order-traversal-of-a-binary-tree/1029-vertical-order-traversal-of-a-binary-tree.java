@@ -14,13 +14,11 @@
  * }
  */
 class Solution {
+    //col->[level[list]]
     TreeMap<Integer, TreeMap<Integer,ArrayList<Integer>>> map = new TreeMap<>();
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
         if(root==null) return res;
-        //col->[level[list]]
-        
-
         //dfs call
         dfs(root,0,0);
 
