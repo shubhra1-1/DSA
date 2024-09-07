@@ -231,6 +231,7 @@ DSA prep for placement
 | [0206-reverse-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -486,18 +487,22 @@ DSA prep for placement
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhra1-1/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhra1-1/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhra1-1/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
