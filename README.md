@@ -149,6 +149,7 @@ DSA prep for placement
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
+| [2411-spiral-matrix-iv](https://github.com/shubhra1-1/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shubhra1-1/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -187,6 +188,7 @@ DSA prep for placement
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/shubhra1-1/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ DSA prep for placement
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shubhra1-1/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhra1-1/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2411-spiral-matrix-iv](https://github.com/shubhra1-1/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhra1-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -235,6 +238,7 @@ DSA prep for placement
 | [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/shubhra1-1/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
