@@ -144,6 +144,7 @@ DSA prep for placement
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -173,6 +174,7 @@ DSA prep for placement
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhra1-1/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shubhra1-1/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -329,6 +331,7 @@ DSA prep for placement
 | [1205-defanging-an-ip-address](https://github.com/shubhra1-1/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shubhra1-1/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -364,6 +367,7 @@ DSA prep for placement
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubhra1-1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shubhra1-1/DSA/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
@@ -479,6 +483,7 @@ DSA prep for placement
 | ------- |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shubhra1-1/DSA/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Graph
 |  |
