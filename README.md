@@ -204,6 +204,7 @@ DSA prep for placement
 | [0013-roman-to-integer](https://github.com/shubhra1-1/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
@@ -257,6 +258,7 @@ DSA prep for placement
 | [0021-merge-two-sorted-lists](https://github.com/shubhra1-1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
@@ -330,6 +332,7 @@ DSA prep for placement
 | [0151-reverse-words-in-a-string](https://github.com/shubhra1-1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shubhra1-1/DSA/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -407,6 +410,7 @@ DSA prep for placement
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/shubhra1-1/DSA/tree/master/0664-strange-printer) |
@@ -471,6 +475,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Doubly-Linked List
 |  |
 | ------- |
