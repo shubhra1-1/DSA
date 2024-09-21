@@ -376,6 +376,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhra1-1/DSA/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/shubhra1-1/DSA/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -528,6 +529,7 @@ DSA prep for placement
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/shubhra1-1/DSA/tree/master/0386-lexicographical-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
