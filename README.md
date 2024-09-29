@@ -173,6 +173,7 @@ DSA prep for placement
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +245,7 @@ DSA prep for placement
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhra1-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/shubhra1-1/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/shubhra1-1/DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -443,6 +445,7 @@ DSA prep for placement
 | [0155-min-stack](https://github.com/shubhra1-1/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shubhra1-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shubhra1-1/DSA/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -488,6 +491,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shubhra1-1/DSA/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 ## Database
 |  |
 | ------- |
