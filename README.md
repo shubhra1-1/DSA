@@ -147,6 +147,7 @@ DSA prep for placement
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhra1-1/DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -294,6 +295,7 @@ DSA prep for placement
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhra1-1/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -447,6 +449,7 @@ DSA prep for placement
 | [0232-implement-queue-using-stacks](https://github.com/shubhra1-1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shubhra1-1/DSA/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
