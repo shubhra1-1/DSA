@@ -308,6 +308,7 @@ DSA prep for placement
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -365,6 +366,7 @@ DSA prep for placement
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/shubhra1-1/DSA/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/shubhra1-1/DSA/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/shubhra1-1/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
@@ -396,6 +398,7 @@ DSA prep for placement
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
