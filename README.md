@@ -142,6 +142,7 @@ DSA prep for placement
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/shubhra1-1/DSA/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/shubhra1-1/DSA/tree/master/0907-koko-eating-bananas) |
+| [1002-maximum-width-ramp](https://github.com/shubhra1-1/DSA/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhra1-1/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhra1-1/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -309,6 +310,7 @@ DSA prep for placement
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shubhra1-1/DSA/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/shubhra1-1/DSA/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -500,6 +502,7 @@ DSA prep for placement
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhra1-1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/shubhra1-1/DSA/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
