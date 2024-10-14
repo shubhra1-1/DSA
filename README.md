@@ -165,6 +165,7 @@ DSA prep for placement
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhra1-1/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shubhra1-1/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -411,6 +412,7 @@ DSA prep for placement
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Trie
 |  |
 | ------- |
@@ -442,6 +444,7 @@ DSA prep for placement
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhra1-1/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/shubhra1-1/DSA/tree/master/2803-modify-graph-edge-weights) |
 ## Bucket Sort
 |  |
