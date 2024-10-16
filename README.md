@@ -378,6 +378,7 @@ DSA prep for placement
 | [1078-remove-outermost-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/shubhra1-1/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
+| [1304-longest-happy-string](https://github.com/shubhra1-1/DSA/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhra1-1/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra1-1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -409,6 +410,7 @@ DSA prep for placement
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
+| [1304-longest-happy-string](https://github.com/shubhra1-1/DSA/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -441,6 +443,7 @@ DSA prep for placement
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1304-longest-happy-string](https://github.com/shubhra1-1/DSA/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhra1-1/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
