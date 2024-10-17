@@ -229,6 +229,7 @@ DSA prep for placement
 | [0539-minimum-time-difference](https://github.com/shubhra1-1/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/shubhra1-1/DSA/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/shubhra1-1/DSA/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra1-1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shubhra1-1/DSA/tree/master/2812-find-the-maximum-achievable-number) |
@@ -410,6 +411,7 @@ DSA prep for placement
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/shubhra1-1/DSA/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shubhra1-1/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/shubhra1-1/DSA/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/shubhra1-1/DSA/tree/master/1304-longest-happy-string) |
