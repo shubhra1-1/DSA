@@ -155,6 +155,7 @@ DSA prep for placement
 | [1694-make-sum-divisible-by-p](https://github.com/shubhra1-1/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/shubhra1-1/DSA/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhra1-1/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -409,6 +410,7 @@ DSA prep for placement
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhra1-1/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhra1-1/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/shubhra1-1/DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
@@ -575,6 +577,7 @@ DSA prep for placement
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhra1-1/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhra1-1/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhra1-1/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhra1-1/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
