@@ -582,6 +582,7 @@ DSA prep for placement
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhra1-1/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhra1-1/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/shubhra1-1/DSA/tree/master/3394-minimum-array-end) |
 ## Graph
 |  |
 | ------- |
