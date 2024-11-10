@@ -169,6 +169,7 @@ DSA prep for placement
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhra1-1/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shubhra1-1/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -540,6 +541,7 @@ DSA prep for placement
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhra1-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -584,6 +586,7 @@ DSA prep for placement
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhra1-1/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shubhra1-1/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhra1-1/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/shubhra1-1/DSA/tree/master/3394-minimum-array-end) |
 ## Graph
 |  |
