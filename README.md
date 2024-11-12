@@ -159,6 +159,7 @@ DSA prep for placement
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhra1-1/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhra1-1/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/shubhra1-1/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhra1-1/DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -349,6 +350,7 @@ DSA prep for placement
 | [0539-minimum-time-difference](https://github.com/shubhra1-1/DSA/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhra1-1/DSA/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -498,6 +500,7 @@ DSA prep for placement
 | [0907-koko-eating-bananas](https://github.com/shubhra1-1/DSA/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhra1-1/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Design
 |  |
 | ------- |
