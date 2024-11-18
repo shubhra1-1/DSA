@@ -154,6 +154,7 @@ DSA prep for placement
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shubhra1-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shubhra1-1/DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/shubhra1-1/DSA/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/shubhra1-1/DSA/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/1940-maximum-xor-for-each-query) |
@@ -551,6 +552,7 @@ DSA prep for placement
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shubhra1-1/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/shubhra1-1/DSA/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shubhra1-1/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Queue
