@@ -169,6 +169,7 @@ DSA prep for placement
 | [2411-spiral-matrix-iv](https://github.com/shubhra1-1/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhra1-1/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhra1-1/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhra1-1/DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -212,6 +213,7 @@ DSA prep for placement
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhra1-1/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhra1-1/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -553,6 +555,7 @@ DSA prep for placement
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shubhra1-1/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/shubhra1-1/DSA/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhra1-1/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shubhra1-1/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Queue
