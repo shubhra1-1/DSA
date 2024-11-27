@@ -178,6 +178,7 @@ DSA prep for placement
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shubhra1-1/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shubhra1-1/DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shubhra1-1/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -619,6 +620,7 @@ DSA prep for placement
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/shubhra1-1/DSA/tree/master/2803-modify-graph-edge-weights) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shubhra1-1/DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -642,6 +644,7 @@ DSA prep for placement
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhra1-1/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shubhra1-1/DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
