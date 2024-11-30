@@ -622,6 +622,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
+| [2201-valid-arrangement-of-pairs](https://github.com/shubhra1-1/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shubhra1-1/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/shubhra1-1/DSA/tree/master/2803-modify-graph-edge-weights) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shubhra1-1/DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -643,6 +644,7 @@ DSA prep for placement
 | [0386-lexicographical-numbers](https://github.com/shubhra1-1/DSA/tree/master/0386-lexicographical-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/shubhra1-1/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -669,4 +671,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0214-shortest-palindrome) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shubhra1-1/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
