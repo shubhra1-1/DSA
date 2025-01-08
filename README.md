@@ -176,6 +176,7 @@ DSA prep for placement
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shubhra1-1/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shubhra1-1/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shubhra1-1/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shubhra1-1/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhra1-1/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -422,6 +423,7 @@ DSA prep for placement
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhra1-1/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubhra1-1/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/shubhra1-1/DSA/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/shubhra1-1/DSA/tree/master/3451-string-compression-iii) |
 ## Prefix Sum
 |  |
@@ -455,11 +457,13 @@ DSA prep for placement
 | [0014-longest-common-prefix](https://github.com/shubhra1-1/DSA/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/shubhra1-1/DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shubhra1-1/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/shubhra1-1/DSA/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -667,10 +671,12 @@ DSA prep for placement
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shubhra1-1/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
