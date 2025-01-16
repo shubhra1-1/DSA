@@ -1,11 +1,16 @@
 class Solution {
-  public int removeDuplicates(int[] nums) {
-    int i = 0;
+    public int removeDuplicates(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return 0; // Handle edge case of empty array
+        }
 
-    for (final int num : nums)
-      if (i < 1 || num > nums[i - 1])
-        nums[i++] = num;
-
-    return i;
-  }
+        int j = 0; // Pointer for the last unique element
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] != nums[j]) {
+                j++;
+                nums[j] = nums[i];
+            }
+        }
+        return j + 1; 
+    }
 }
