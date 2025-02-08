@@ -219,6 +219,7 @@ DSA prep for placement
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shubhra1-1/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shubhra1-1/DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2434-design-a-number-container-system](https://github.com/shubhra1-1/DSA/tree/master/2434-design-a-number-container-system) |
 | [2487-optimal-partition-of-string](https://github.com/shubhra1-1/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shubhra1-1/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhra1-1/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -489,6 +490,7 @@ DSA prep for placement
 | [1304-longest-happy-string](https://github.com/shubhra1-1/DSA/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/shubhra1-1/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhra1-1/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/shubhra1-1/DSA/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhra1-1/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhra1-1/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shubhra1-1/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -538,6 +540,7 @@ DSA prep for placement
 | [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shubhra1-1/DSA/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/shubhra1-1/DSA/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -558,6 +561,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
+| [2434-design-a-number-container-system](https://github.com/shubhra1-1/DSA/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
 | ------- |
