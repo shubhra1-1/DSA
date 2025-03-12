@@ -133,6 +133,7 @@ DSA prep for placement
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
@@ -199,6 +200,7 @@ DSA prep for placement
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/shubhra1-1/DSA/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
@@ -248,6 +250,7 @@ DSA prep for placement
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shubhra1-1/DSA/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shubhra1-1/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/shubhra1-1/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/shubhra1-1/DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -366,6 +369,7 @@ DSA prep for placement
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/shubhra1-1/DSA/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -522,6 +526,7 @@ DSA prep for placement
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhra1-1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shubhra1-1/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
@@ -621,6 +626,7 @@ DSA prep for placement
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shubhra1-1/DSA/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhra1-1/DSA/tree/master/1435-xor-queries-of-a-subarray) |
