@@ -120,6 +120,7 @@ DSA prep for placement
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhra1-1/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shubhra1-1/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shubhra1-1/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shubhra1-1/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -367,6 +368,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhra1-1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -516,6 +518,7 @@ DSA prep for placement
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhra1-1/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
