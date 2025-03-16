@@ -127,6 +127,7 @@ DSA prep for placement
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhra1-1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhra1-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -518,6 +519,7 @@ DSA prep for placement
 | [0070-climbing-stairs](https://github.com/shubhra1-1/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shubhra1-1/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shubhra1-1/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhra1-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhra1-1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhra1-1/DSA/tree/master/0241-different-ways-to-add-parentheses) |
