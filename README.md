@@ -136,6 +136,7 @@ DSA prep for placement
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
@@ -328,6 +329,7 @@ DSA prep for placement
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhra1-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shubhra1-1/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
