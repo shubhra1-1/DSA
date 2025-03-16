@@ -134,6 +134,7 @@ DSA prep for placement
 | [0152-maximum-product-subarray](https://github.com/shubhra1-1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shubhra1-1/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shubhra1-1/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
@@ -203,6 +204,7 @@ DSA prep for placement
 | [0142-linked-list-cycle-ii](https://github.com/shubhra1-1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shubhra1-1/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhra1-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shubhra1-1/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
@@ -370,6 +372,7 @@ DSA prep for placement
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhra1-1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shubhra1-1/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -377,6 +380,7 @@ DSA prep for placement
 | [0015-3sum](https://github.com/shubhra1-1/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shubhra1-1/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/shubhra1-1/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shubhra1-1/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubhra1-1/DSA/tree/master/0242-valid-anagram) |
@@ -486,6 +490,7 @@ DSA prep for placement
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shubhra1-1/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shubhra1-1/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shubhra1-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
