@@ -1,20 +1,43 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];        
-        int pos=0;
-        int neg=1;
-        for(int i=0;i<n;i++){
-            if(nums[i]<0){
-            ans[neg]=nums[i];
-            neg+=2;
+        int pos[] = new int[nums.length];
+        int neg[] = new int[nums.length];
+        int res[] = new int[nums.length];
+        int posIndex = 0;
+        int negIndex = 0;
+
+        // Separate positive and negative numbers
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < 0) {
+                neg[negIndex++] = nums[i];
+            } else {
+                pos[posIndex++] = nums[i];
+            }
         }
-        else{
-            ans[pos]=nums[i];
-            pos+=2;
+
+        int k = 0;
+        // Alternate between positive and negative numbers
+        posIndex = 0;  // Reset posIndex
+        negIndex = 0;  // Reset negIndex
+        while (posIndex < pos.length && negIndex < neg.length && k<nums.length) {
+            
+            res[k++] = pos[posIndex++]; 
+            res[k++] = neg[negIndex++];  
+            
+            
+            
         }
+
+        // Fill remaining positive numbers if any
+        while (posIndex < pos.length &&  k<nums.length) {
+            res[k++] = pos[posIndex++];
         }
-        
-    return ans;
+
+        // Fill remaining negative numbers if any
+        while (negIndex < neg.length && k<nums.length) {
+            res[k++] = neg[negIndex++];
+        }
+
+        return res;
     }
 }
