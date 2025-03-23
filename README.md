@@ -141,6 +141,7 @@ DSA prep for placement
 | [0239-sliding-window-maximum](https://github.com/shubhra1-1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhra1-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/shubhra1-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shubhra1-1/DSA/tree/master/0496-next-greater-element-i) |
@@ -337,6 +338,7 @@ DSA prep for placement
 | [0189-rotate-array](https://github.com/shubhra1-1/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhra1-1/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhra1-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubhra1-1/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra1-1/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -548,6 +550,7 @@ DSA prep for placement
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shubhra1-1/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shubhra1-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/shubhra1-1/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhra1-1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shubhra1-1/DSA/tree/master/0792-binary-search) |
@@ -649,6 +652,7 @@ DSA prep for placement
 | ------- |
 | [0136-single-number](https://github.com/shubhra1-1/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shubhra1-1/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shubhra1-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shubhra1-1/DSA/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shubhra1-1/DSA/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhra1-1/DSA/tree/master/1435-xor-queries-of-a-subarray) |
