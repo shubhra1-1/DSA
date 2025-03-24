@@ -154,6 +154,7 @@ DSA prep for placement
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shubhra1-1/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/shubhra1-1/DSA/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/shubhra1-1/DSA/tree/master/1002-maximum-width-ramp) |
+| [1217-relative-sort-array](https://github.com/shubhra1-1/DSA/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/shubhra1-1/DSA/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhra1-1/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhra1-1/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -218,6 +219,7 @@ DSA prep for placement
 | [0560-subarray-sum-equals-k](https://github.com/shubhra1-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shubhra1-1/DSA/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1217-relative-sort-array](https://github.com/shubhra1-1/DSA/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhra1-1/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhra1-1/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhra1-1/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -393,6 +395,7 @@ DSA prep for placement
 | [0451-sort-characters-by-frequency](https://github.com/shubhra1-1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/shubhra1-1/DSA/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhra1-1/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1217-relative-sort-array](https://github.com/shubhra1-1/DSA/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhra1-1/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shubhra1-1/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shubhra1-1/DSA/tree/master/2331-intersection-of-multiple-arrays) |
@@ -731,4 +734,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/shubhra1-1/DSA/tree/master/0820-find-eventual-safe-states) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/shubhra1-1/DSA/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
