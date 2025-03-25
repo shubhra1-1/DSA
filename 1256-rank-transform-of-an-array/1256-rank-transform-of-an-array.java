@@ -1,20 +1,22 @@
-import java.util.*;
-
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        Map<Integer, Integer> valueToRank = new HashMap<>();  // Map to store value-to-rank mapping
-        int[] sortedUniqueNumbers = Arrays.stream(arr).distinct().sorted().toArray();  // Remove duplicates and sort
-        
-        // Assign ranks to sorted unique elements
-        for (int i = 0; i < sortedUniqueNumbers.length; i++) {
-            valueToRank.put(sortedUniqueNumbers[i], i + 1);
-        }
+        Map<Integer, Integer> mp = new HashMap<>();
+        Set<Integer> set = new TreeSet<>();
 
-        // Replace each element in the original array with its rank
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = valueToRank.get(arr[i]);
+        //put elements of array in treeset
+        for(int num : arr ){
+            set.add(num);
         }
+        int rank=1; //bcoz rank start from 1
+        //put set elements in map
+        for(int maps: set){
+            mp.put(maps,rank);
+            rank++;
 
-        return arr;  // Return the updated array
+        }
+        for(int i =0;i<arr.length;i++){
+            arr[i]= mp.get(arr[i]);
+        }
+        return arr;
     }
 }
