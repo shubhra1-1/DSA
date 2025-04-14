@@ -164,6 +164,7 @@ DSA prep for placement
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhra1-1/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhra1-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shubhra1-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/shubhra1-1/DSA/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/shubhra1-1/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/shubhra1-1/DSA/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhra1-1/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -742,4 +743,8 @@ DSA prep for placement
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/shubhra1-1/DSA/tree/master/1217-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/shubhra1-1/DSA/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
